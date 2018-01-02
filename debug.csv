@@ -1,0 +1,9 @@
+,COVERAGE,IS_NUM,JACCARD,LBL,MW_NUM,TF_IDF,column_name,label,name,prob,truth
+0,0.0,0.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,1.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,1.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,1.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,1.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,1.0,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,0.5,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
+0,0.0,0.5,0.0,0.0,0.0,0,default!to_predict,0,Yw==-bGF0,0.157526459929,False
